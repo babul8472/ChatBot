@@ -1,0 +1,8 @@
+{
+  "name": "Babul's ChatBot",
+  "description": "A sophisticated AI-powered assistant with a minimalist aesthetic, seamless real-time conversation, image editing, and grounding capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
